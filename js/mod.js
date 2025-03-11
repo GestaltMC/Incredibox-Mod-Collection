@@ -19,9 +19,9 @@ let ShakeEffectOn=null===localStorage.getItem("ShakeEffectOn")||"true"===localSt
 
 
 // Register your mod here
-var RegisterMod = "Unknow";
+var RegisterMod = "Incredibox Mod's Collection";
 var RegisterModVersion = "0.0.1";
-var ModDeveloper = "Developer";
+var ModDeveloper = "Starlight";
 
 // Simple function for locked icons!
 function onLockedIcon(){
