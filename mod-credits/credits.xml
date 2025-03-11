@@ -1,0 +1,44 @@
+<!--
+FORMATTING:
+• (!line) - new line
+• (!bold/TEXT) - bold text
+• (!underline/TEXT) - underlined text
+• (!italic/text) - italic text
+• (!color/#HEX/TEXT) - colored text
+• (!emoji/EMOJI.png) - emoji
+• (!size/XXpx/TEXT) - text size
+• (!youtube/VIDEO_URL) - youtube video
+• (!button/#HEX/ICON.png/LINK/TEXT) - button
+• (!hr) - horizontal line
+-->
+
+<credits>
+  <page 
+  noImage="false"
+  image="mod-credits/dumshit/starlight.png"
+  title="Mod by Starlight"
+  text="Funnee mod collection coded by Starlight (AKA me) (!line) Check out my channel here (!line)(!hr)(!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@Burning_Ember_4002//My Channel)"
+  />
+
+
+  <page 
+  noImage="false"
+  image="mod-credits/dumshit/rizdidcodeong.png"
+  title="Custom Polo Code By Rizsim Studios"
+  text="The man who made the code for custom the empty Polo Code (!line) Also Check out Rizsim's Channel as well! (!line) (!hr) (!line) (!button/#4A4A4A/social_website.png/https://sites.google.com/view/rizsimstudios-mods/choose-mod-games//Rizsim's Website) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@rizsimstudiosOfficial//Rizsim's Channel) "
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/01c_remmie-hd.png"
+  title="Special Thanks!"
+  text="Incredibox Modding Build created with passion by (!color/#64b1e8/(!bold/Rem))! Love creative mods and unique sounds? Support her work and explore more on her channel! (!line)(!line)(!hr)(!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@rin.Incredibox//Rem's Channel)"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/03c_sofarsogood-hd.png"
+  title="INCREDIBOX BY SO FAR SO GOOD!"
+  text="And of corse the official developers of Incredibox, (!bold/Allan), (!bold/Romain) and Incredible (!bold/Polo)! Without them, this project wouldn't exist! (!line)(!line)(!hr)(!line)Buy Official Incredibox for more fun and to support the team!(!line)(!line)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox)"
+  />
+</credits>
+
+<!--You can edit or change my credits, but please remember to credit me somewhere as well for using my build! Thank you! ✨-->
