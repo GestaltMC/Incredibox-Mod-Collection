@@ -1,7 +1,7 @@
 // Here all versions are located, the same as app.js but this time its apps.js because all versions info is located in this one file
 // To add more versions, copy the versions.v1 and replace with versions.v2, and the same with others (it support more than 9 versions)
 
-versions.v1 = {
+versions.v1 = { // CELCIUS
   name: "Celcius",
   version: "1",
   date: "2025",
@@ -128,18 +128,18 @@ versions.v1 = {
 // Here all versions are located, the same as app.js but this time its apps.js because all versions info is located in this one file
 // To add more versions, copy the versions.v1 and replace with versions.v2, and the same with others (it support more than 9 versions)
 
-versions.v2 = {
+versions.v2 = { // STARDUST
   name: "Stardust",
   version: "2",
   date: "2025",
   folder: "asset-v2/", // ← If you are adding more versions, make sure follder is correct, for example "asset-v2/" for v2
   looptime: 8000,
   bpm: 120,
-  totalframe: 260,
+  totalframe: 384, // fix the totalframe cuz animation was slow woops - Rizsim Studios
   nbpolo: 7,
   bonusloopA: false, // ← It makes bonus start on loop A, if its false, bonus will start after 1 loop
   bonusendloopA: true,
-  colBck: "#7B00FF",
+  colBck: "#000000", 
   col0: "#7B00FF",
   col1: "#7B00FF",
   col2: "#7B00FF",
