@@ -15,9 +15,9 @@ versions.v1 = { // CELCIUS
   colBck: "#020d45",
   col0: "#2bb0d1",
   col1: "#1a35e6",
-  col2: "#2666de",
-  col3: "#00bfff",
-  col4: "#85b6ff",
+  col2: "#0e24b8",
+  col3: "#0062ff",
+  col4: "#3e57f5",
   animearray: [
     {
       name: "01_Eskimo",
@@ -142,9 +142,9 @@ versions.v2 = { // STARDUST
   colBck: "#000000", 
   col0: "#7B00FF",
   col1: "#7B00FF",
-  col2: "#7B00FF",
-  col3: "#7B00FF",
-  col4: "#7B00FF",
+  col2: "#4b1094",
+  col3: "#8b27fc",
+  col4: "#551f96",
   animearray: [
     {
       name: "1_lead",
