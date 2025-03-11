@@ -192,7 +192,7 @@ versions.v2 = {
       uniqsnd: true,
     },
     {
-      name: "10_Phil",
+      name: "10_phil",
       color: "#2fb62f",
       uniqsnd: false,
     },
