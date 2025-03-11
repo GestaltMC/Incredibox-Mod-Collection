@@ -177,7 +177,7 @@ versions.v2 = {
       uniqsnd: false,
     },
     {
-      name: "7_Dave",
+      name: "7_dave",
       color: "#2fb62f",
       uniqsnd: false,
     },
