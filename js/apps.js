@@ -139,12 +139,12 @@ versions.v2 = {
   nbpolo: 7,
   bonusloopA: false, // ← It makes bonus start on loop A, if its false, bonus will start after 1 loop
   bonusendloopA: true,
-  colBck: "##7B00FF",
-  col0: "##7B00FF",
-  col1: "##7B00FF",
-  col2: "##7B00FF",
-  col3: "##7B00FF",
-  col4: "##7B00FF",
+  colBck: "#7B00FF",
+  col0: "#7B00FF",
+  col1: "#7B00FF",
+  col2: "#7B00FF",
+  col3: "#7B00FF",
+  col4: "#7B00FF",
   animearray: [
     {
       name: "1_lead",
