@@ -252,8 +252,243 @@ versions.v2 = { // STARDUST
   ],
 };
 
-// versions.v3 = {
-//  name: "New Version",
-// version: "3",
-// date: "2025",
-// ...
+versions.v3 = { // DREAMLAND
+  name: "Dreamland",
+  version: "3",
+  date: "2025",
+  folder: "asset-v3/", // ← If you are adding more versions, make sure follder is correct, for example "asset-v2/" for v2
+  looptime: 13714,
+  bpm: 140,
+  totalframe: 1152, // fix the totalframe cuz animation was slow woops - Rizsim Studios
+  nbpolo: 7,
+  bonusloopA: false, // ← It makes bonus start on loop A, if its false, bonus will start after 1 loop
+  bonusendloopA: true,
+  colBck: "#ffffff", 
+  col0: "#2a266a",
+  col1: "#2a266a",
+  col2: "#2a266a",
+  col3: "#373737",
+  col4: "#232323",
+  animearray: [
+    {
+      name: "1_heart",
+      color: "b6a593",
+      uniqsnd: true, // ← !0 means that polo will use only _a audio, if its !1 - it will use _a and _b
+    },
+    {
+      name: "2_switch",
+      color: "da7f96",
+      uniqsnd: true,
+    },
+    {
+      name: "3_giftbox",
+      color: "94dfc6",
+      uniqsnd: true,
+    },
+    {
+      name: "4_board",
+      color: "e8bd85",
+      uniqsnd: true,
+    },
+    {
+      name: "5_tunnel",
+      color: "51516c",
+      uniqsnd: true,
+    },
+    {
+      name: "6_pool bass",
+      color: "6cefd5",
+      uniqsnd: false,
+    },
+    {
+      name: "7_signal lamp",
+      color: "ffdc9a",
+      uniqsnd: false,
+    },
+    {
+      name: "8_steam",
+      color: "93bcb0",
+      uniqsnd: false,
+    },
+    {
+      name: "9_cage",
+      color: "87b0d8",
+      uniqsnd: false,
+    },
+    {
+      name: "10_umbrella",
+      color: "f543af",
+      uniqsnd: false,
+    },
+    {
+      name: "11_graffiti",
+      color: "687eff",
+      uniqsnd: false,
+    },
+    {
+      name: "12_lighthouse",
+      color: "be5c74",
+      uniqsnd: false,
+    },
+    {
+      name: "13_gameboy",
+      color: "66ebc8",
+      uniqsnd: false,
+    },
+    {
+      name: "14_engine",
+      color: "f9e890",
+      uniqsnd: false,
+    },
+    {
+      name: "15_camera",
+      color: "888caf",
+      uniqsnd: false,
+    },
+    {
+      name: "16_sleeper",
+      color: "89a2bd",
+      uniqsnd: false,
+    },
+    {
+      name: "17_ice sculpture",
+      color: "f66c6d",
+      uniqsnd: true,
+    },
+    {
+      name: "18_operator",
+      color: "93ad9b",
+      uniqsnd: false,
+    },
+    {
+      name: "19_captain",
+      color: "e6f0fc",
+      uniqsnd: false,
+    },
+    {
+      name: "20_radio",
+      color: "a3acb7",
+      uniqsnd: false,
+    },
+    {
+      name: "21_petto",
+      color: "6e6e6e",
+      uniqsnd: false,
+    },
+    {
+      name: "22_locke",
+      color: "ff5290",
+      uniqsnd: false,
+    },
+    {
+      name: "23_computer",
+      color: "06B187",
+      uniqsnd: true,
+    },
+  ],
+  bonusarray: [
+    //No Bonuses yet again
+  ],
+};
+
+versions.v4 = { // TRAVIS
+  name: "Travis",
+  version: "4",
+  date: "2022",
+  folder: "asset-v4/",
+  looptime: 12000,
+  bpm: 80,
+  totalframe: 576,
+  nbpolo: 7,
+  bonusloopA: false,
+  bonusendloopA: false,
+  colBck: "#001c44",
+  col0: "#0086d1",
+  col1: "#1b4e91",
+  col2: "#193e6f",
+  col3: "#0d284c",
+  col4: "#0a1c33",
+  animearray: [{
+    name: "1_kick",
+    color: "860788",
+    uniqsnd: false
+  }, {
+    name: "2_clap",
+    color: "860788",
+    uniqsnd: false
+  }, {
+    name: "3_snap",
+    color: "860788",
+    uniqsnd: true
+  }, {
+    name: "4_tuctuc",
+    color: "860788",
+    uniqsnd: false
+  }, {
+    name: "5_poom",
+    color: "860788",
+    uniqsnd: false
+  }, {
+    name: "6_bass",
+    color: "35b535",
+    uniqsnd: false
+  }, {
+    name: "7_clicky",
+    color: "35b535",
+    uniqsnd: false
+  }, {
+    name: "8_satellite",
+    color: "35b535",
+    uniqsnd: false
+  }, {
+    name: "9_echo",
+    color: "35b535",
+    uniqsnd: false
+  }, {
+    name: "10_steam",
+    color: "35b535",
+    uniqsnd: false
+  }, {
+    name: "11_hooh",
+    color: "cb2d3e",
+    uniqsnd: false
+  }, {
+    name: "12_flute",
+    color: "cb2d3e",
+    uniqsnd: false
+  }, {
+    name: "13_euphoria",
+    color: "cb2d3e",
+    uniqsnd: false
+  }, {
+    name: "14_siren",
+    color: "cb2d3e",
+    uniqsnd: true
+  }, {
+    name: "15_arp",
+    color: "cb2d3e",
+    uniqsnd: false
+  }, {
+    name: "16_lie",
+    color: "005090",
+    uniqsnd: false
+  }, {
+    name: "17_mosaic",
+    color: "005090",
+    uniqsnd: false
+  }, {
+    name: "18_knowledge",
+    color: "005090",
+    uniqsnd: false
+  }, {
+    name: "19_toina",
+    color: "005090",
+    uniqsnd: false
+  }, {
+    name: "20_clock",
+    color: "005090",
+    uniqsnd: false
+  }],
+  bonusarray: [//No Bonuses 
+    ]
+};
