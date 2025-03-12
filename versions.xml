@@ -14,5 +14,8 @@ HOW TO USE IT:
   <line>
     <icon name="Celcius" ID="1" color="#0087ff" locked="false" customName="true" customIcon="asset-v1/icon-celicus.png" hidden="false"></icon>
         <icon name="Stardust" ID="2" color="#1f2b48" locked="false" customName="true" customIcon="asset-v2/icon-stdustv5.png" hidden="false"></icon>
+        <icon name="Dreamland" ID="3" color="#4dc3ff" locked="false" customName="true" customIcon="asset-v3/icon_dreamland.png" hidden="false"></icon>
+        <icon name="Travis" ID="4" color="#0086d1" locked="false" customName="true" customIcon="asset-v4/icon-travis.png" hidden="false"></icon>
+
   </line>
 </icons>
