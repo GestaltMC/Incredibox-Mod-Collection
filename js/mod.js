@@ -24,8 +24,14 @@ var RegisterModVersion = "0.0.1";
 var ModDeveloper = "Starlight";
 
 // Simple function for locked icons!
-function onLockedIcon(){
-  boxDialog.open('This Icon is locked', 'LOCKED!')
+function onLockedIcon6(){
+  boxDialog.open('This version is not even finished yet', 'Hello')
+}
+function onLockedIcon7(){
+  boxDialog.open('Deez Nuts', 'Hello')
+}
+function onLockedIcon8(){
+  boxDialog.open('Your Mom', 'Hello')
 }
 
 // Check examples.js for more functions and triggers!
