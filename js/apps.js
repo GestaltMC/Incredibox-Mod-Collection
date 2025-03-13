@@ -409,6 +409,7 @@ versions.v4 = { // TRAVIS
   col3: "#0d284c",
   col4: "#0a1c33",
   animearray: [{
+
     name: "1_kick",
     color: "860788",
     uniqsnd: false
@@ -489,7 +490,109 @@ versions.v4 = { // TRAVIS
     color: "005090",
     uniqsnd: false
   }],
-  bonusarray: [
-    // No Bonuses 
+  bonusarray: [//No Bonuses 
+    ]
+};
+
+versions.v5 = { // MECHANIC
+  name: "Mechanic",
+  version: "5",
+  date: "2022",
+  folder: "asset-v5/",
+  looptime: 6857,
+  bpm: 140,
+  totalframe: 452,
+  nbpolo: 7,
+  bonusloopA: false,
+  bonusendloopA: false,
+  colBck: "#001c44",
+  col0: "#0086d1",
+  col1: "#1b4e91",
+  col2: "#193e6f",
+  col3: "#0d284c",
+  col4: "#0a1c33",
+  animearray: [{
+
+    name: "1_pump",
+    color: "860788",
+    uniqsnd: true
+  }, {
+    name: "2_wheel",
+    color: "860788",
+    uniqsnd: true
+  }, {
+    name: "3_tiktuk",
+    color: "860788",
+    uniqsnd: true
+  }, {
+    name: "4_hammer",
+    color: "860788",
+    uniqsnd: true
+  }, {
+    name: "5_snare",
+    color: "860788",
+    uniqsnd: true
+  }, {
+    name: "6_bass",
+    color: "35b535",
+    uniqsnd: false
+  }, {
+    name: "7_cube",
+    color: "35b535",
+    uniqsnd: true
+  }, {
+    name: "8_breather",
+    color: "35b535",
+    uniqsnd: true
+  }, {
+    name: "9_transition",
+    color: "35b535",
+    uniqsnd: false
+  }, {
+    name: "10_hit",
+    color: "35b535",
+    uniqsnd: false
+  }, {
+    name: "11_alert",
+    color: "cb2d3e",
+    uniqsnd: false
+  }, {
+    name: "12_synth",
+    color: "cb2d3e",
+    uniqsnd: true
+  }, {
+    name: "13_beep",
+    color: "cb2d3e",
+    uniqsnd: true
+  }, {
+    name: "14_arpeg",
+    color: "cb2d3e",
+    uniqsnd: true
+  }, {
+    name: "15_tunbum",
+    color: "cb2d3e",
+    uniqsnd: false
+  }, {
+    name: "16_mechanic",
+    color: "005090",
+    uniqsnd: false
+  }, {
+    name: "17_struck",
+    color: "005090",
+    uniqsnd: false
+  }, {
+    name: "18_woah",
+    color: "005090",
+    uniqsnd: true
+  }, {
+    name: "19_hum",
+    color: "005090",
+    uniqsnd: true
+  }, {
+    name: "20_doot",
+    color: "005090",
+    uniqsnd: false
+  }],
+  bonusarray: [//No Bonuses 
     ]
 };
