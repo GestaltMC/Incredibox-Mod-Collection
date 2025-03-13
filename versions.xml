@@ -18,7 +18,7 @@ HOW TO USE IT:
         <icon name="Travis" ID="4" color="#0086d1" locked="false" customName="true" customIcon="asset-v4/icon-travis.png" hidden="false"></icon>
   </line>
  <line>
-  <icon name="Mechanic" ID="5" color="#666" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
+  <icon name="Mechanic" ID="5" color="#666" locked="false" customName="true" customIcon="asset-v5/icon-clbx-mechanic.png" hidden="false"></icon>
    <icon name="Locked" ID="6" color="#666" locked="true" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
    <icon name="Locked" ID="7" color="#666" locked="true" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
    <icon name="Locked" ID="8" color="#666" locked="true" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
