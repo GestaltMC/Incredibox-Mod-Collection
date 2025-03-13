@@ -506,12 +506,12 @@ versions.v5 = { // MECHANIC
   nbpolo: 7,
   bonusloopA: false,
   bonusendloopA: false,
-  colBck: "#001c44",
-  col0: "#0086d1",
-  col1: "#1b4e91",
-  col2: "#193e6f",
-  col3: "#0d284c",
-  col4: "#0a1c33",
+  colBck: "#07002a",
+  col0: "#564BB5",
+  col1: "#4A3FA4",
+  col2: "#362C86",
+  col3: "#332184",
+  col4: "#2C1A67",
   animearray: [{
 
     name: "1_pump",
