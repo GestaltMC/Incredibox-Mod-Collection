@@ -598,3 +598,129 @@ versions.v5 = { // MECHANIC
     // No Bonuses 
     ]
 };
+
+versions.v6 = {
+  name: "Ocean Breeze",
+  version: "6",
+  date: "2024",
+  folder: "asset-v6/",
+  looptime: 10666,
+  bpm: 90,
+  totalframe: 514,
+  nbpolo: 7,
+  bonusloopA: false,
+  bonusendloopA: false,
+  colBck: "#2f2e1a",
+  col0: "#66e8e4",
+  col1: "#12F0E9",
+  col2: "#0ba39c",
+  col3: "#0ac7c1",
+  col4: "#0fb8b2",
+  animearray: [{
+    name: "01_Melon",
+    color: "AEC52C",
+    uniqsnd: true
+  }, {
+    name: "02_Barista",
+    color: "B5A237",
+    uniqsnd: true
+  }, {
+    name: "03_Chichika",
+    color: "C5803D",
+    uniqsnd: true
+  }, {
+    name: "04_Tourist",
+    color: "DB5544",
+    uniqsnd: true
+  }, {
+    name: "05_Tim",
+    color: "F2254A",
+    uniqsnd: true
+  }, {
+    name: "06_Scuba",
+    color: "1E3362",
+    uniqsnd: false
+  }, {
+    name: "07_Siren",
+    color: "959595",
+    uniqsnd: false
+  }, {
+    name: "08_Newsman",
+    color: "394868",
+    uniqsnd: true
+  }, {
+    name: "09_Dane",
+    color: "5E677A",
+    uniqsnd: true
+  }, {
+    name: "10_Lifeguard",
+    color: "777B85",
+    uniqsnd: true
+  }, {
+    name: "11_Coconut",
+    color: "E15A18",
+    uniqsnd: true
+  }, {
+    name: "12_Uku",
+    color: "2B6B53",
+    uniqsnd: true
+  }, {
+    name: "13_Terra",
+    color: "5E6541",
+    uniqsnd: false
+  }, {
+    name: "14_Band",
+    color: "B35D25",
+    uniqsnd: true
+  }, {
+    name: "15_Jellyfish",
+    color: "896132",
+    uniqsnd: false
+  }, {
+    name: "16_Sunrise",
+    color: "E16B1E",
+    uniqsnd: false
+  }, {
+    name: "17_Tiki",
+    color: "6F1E1F",
+    uniqsnd: true
+  }, {
+    name: "18_Captain",
+    color: "3D3D7D",
+    uniqsnd: true
+  }, {
+    name: "19_Sungod",
+    color: "C23B19",
+    uniqsnd: true
+  }, {
+    name: "20_Rapper",
+    color: "AD2116",
+    uniqsnd: true
+  }],
+  bonusarray: [
+    // { // BONUS 1
+    //   name: "Quickdraw",
+    //   src: "b1-quickdraw",
+    //   code: "1,10,11,14,17",
+    //   sound: "bonus-quickdraw",
+    //   aspire: "aspire-quickdraw",
+    //   loop: 3,
+    // },
+    // {
+    //   name: "Busta",
+    //   src: "v6-b2-busta-hb",
+    //   code: "1,2,8,11,16",
+    //   sound: "bonus-busta",
+    //   aspire: "aspire-busta",
+    //   loop: 3,
+    // },
+    // {
+    //   name: "VR",
+    //   src: "v6-b3-vr-hb",
+    //   code: "3,8,11,12,20",
+    //   sound: "bonus-vr",
+    //   aspire: "aspire-vr",
+    //   loop: 3,
+    // },
+  ]
+};
