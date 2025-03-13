@@ -490,7 +490,8 @@ versions.v4 = { // TRAVIS
     color: "005090",
     uniqsnd: false
   }],
-  bonusarray: [//No Bonuses 
+  bonusarray: [
+    // No Bonuses 
     ]
 };
 
@@ -593,6 +594,7 @@ versions.v5 = { // MECHANIC
     color: "005090",
     uniqsnd: false
   }],
-  bonusarray: [//No Bonuses 
+  bonusarray: [
+    // No Bonuses 
     ]
 };
