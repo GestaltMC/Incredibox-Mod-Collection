@@ -515,83 +515,83 @@ versions.v5 = { // MECHANIC
   animearray: [{
 
     name: "1_pump",
-    color: "860788",
+    color: "DF8020",
     uniqsnd: true
   }, {
     name: "2_wheel",
-    color: "860788",
+    color: "DF8020",
     uniqsnd: true
   }, {
     name: "3_tiktuk",
-    color: "860788",
+    color: "DF8020",
     uniqsnd: true
   }, {
     name: "4_hammer",
-    color: "860788",
+    color: "DF8020",
     uniqsnd: true
   }, {
     name: "5_snare",
-    color: "860788",
+    color: "DF8020",
     uniqsnd: true
   }, {
     name: "6_bass",
-    color: "35b535",
+    color: "8F82FF",
     uniqsnd: false
   }, {
     name: "7_cube",
-    color: "35b535",
+    color: "8F82FF",
     uniqsnd: true
   }, {
     name: "8_breather",
-    color: "35b535",
+    color: "8F82FF",
     uniqsnd: true
   }, {
     name: "9_transition",
-    color: "35b535",
+    color: "8F82FF",
     uniqsnd: false
   }, {
     name: "10_hit",
-    color: "35b535",
+    color: "8F82FF",
     uniqsnd: false
   }, {
     name: "11_alert",
-    color: "cb2d3e",
+    color: "20DF20",
     uniqsnd: false
   }, {
     name: "12_synth",
-    color: "cb2d3e",
+    color: "20DF20",
     uniqsnd: true
   }, {
     name: "13_beep",
-    color: "cb2d3e",
+    color: "20DF20",
     uniqsnd: true
   }, {
     name: "14_arpeg",
-    color: "cb2d3e",
+    color: "20DF20",
     uniqsnd: true
   }, {
     name: "15_tunbum",
-    color: "cb2d3e",
+    color: "20DF20",
     uniqsnd: false
   }, {
     name: "16_mechanic",
-    color: "005090",
+    color: "DF202",
     uniqsnd: false
   }, {
     name: "17_struck",
-    color: "005090",
+    color: "DF202",
     uniqsnd: false
   }, {
     name: "18_woah",
-    color: "005090",
+    color: "DF202",
     uniqsnd: true
   }, {
     name: "19_hum",
-    color: "005090",
+    color: "DF202",
     uniqsnd: true
   }, {
     name: "20_doot",
-    color: "005090",
+    color: "DF202",
     uniqsnd: false
   }],
   bonusarray: [
